@@ -56,14 +56,19 @@ As stated earlier in our business description, the specific aspect of the film i
     2. A Studio has many Films 
     3. A Film have many Expenses
     4. A Film can have many Budgets 
-    5. A Film can have many ContractDeals 
-    6. A StreamingService have many ContractDeals
-    7. A Cinema have many ContractDeals
 
     MANY TO MANY RELATIONSHIPS:
     1. Films have many Genres but a Genre has many Films 
     2. Films can have many Awards but an Award can also 
         be won by many films
+    3. A Film can have many Cinemas and Cinemas can have many
+        films resulting in the associative entity of
+        ContractDeals
+    4. A Film can have many StreamingServices and 
+        StreamingServices can have many films resulting in the 
+        associative entity of ContractDeals
+
+
 
 
 ## Data Dictionary
@@ -127,10 +132,10 @@ This query is relevant to management because it would be beneficial to know whic
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6.png)
 
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6%20Results.png)
-## Query #7:   Write a query that lists out filmName and totalRevenue for films whose total totalRevenue are less than or equal to the average total revenue for films from the same genre.
+## Query #7:   Write a query that lists out filmName and totalRevenue for films that have total revenue less than the average total revenue of films from the same genre.
 
 
-This would help management to look at what films have greater than average expenses relative to films that are being made in the same country since expenses around the world can vary.
+This query would be relevant to management because it allows them to see which films are underperforming for their genre.
 
 
 
