@@ -4,7 +4,7 @@
 Team Name: 21479_2
 
     Team Members:
-    1. Carson Hall
+    1. Carson Hall 
     2. Jacob Hoover
     3. Ryan Restino
     4. Mason Sprinkle
@@ -66,15 +66,18 @@ As stated earlier in our business description, the specific aspect of the film i
 
 
 ## Data Dictionary
-## Query #1 : Write a query that displays each film’s department and their correlated expenses in ascending order
-
-This query is relevant to management because it allows them to see which departments are using the most financial resources. Tracking expenses is a key part of business to allow the company to see where they can cut costs.
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/Data%20Dictionary.png)
 
 
+## Query #1 : Write a query that displays each film's filmTitle and expense amount for the film's production department. 
+
+This query is relevant to management because it allows them to see how much financial resources the production department is using. Tracking expenses is a key part of business to allow the company to see where they can cut costs.
 
 
 
-## Query #2: Write a query to list the filmName and total expenses for that film if expenses are greater than or equal to    .
+
+
+## Query #2: Write a query to list the filmName and total expenses for that film if expenses are greater than or equal to $4000.
 
 This query is relevant to management because it allows them to see the total amount of expenses incurred by each Film for films that have larger expenses.
 
@@ -91,12 +94,24 @@ This query is relevant because it allows the user to see the exact number of fil
 ## Query #6: Write a query to list the average revenue of each genre produced by our studio.
 
 This query is relevant to management because it would be beneficial to know which genres of film are on average the most successful financially and which genre’s may struggle more financially on average. 
-## Query #7:  Write a query that lists out filmName and total expenses for films whose total expenses are greater than the average total expenses for films from the same country.
+## Query #7:  Write a query that lists out filmName and total expenses for films whose total expenses are greater than the average total expenses for films from the same studio.
 
 This would help management to look at what films have greater than average expenses relative to films that are being made in the same country since expenses around the world can vary. 
 
-## Query #8:
+## Query #8:Write a query to see which films do not have contract deals.
+
+
+This query is relevant to management, because it will allow them to keep their contract negotiations organized and see which films need to be prioritized. 
+
   
-## Query #9
-## Query #10
+## Query #9: Write a query to see the average distribution percentage of each Cinema company.
+
+
+This query will allow management to see which Cinema companies they typically get the best deals with and use that information to negotiate going forward. 
+
+## Query #10: Write a query to list which specific budget was allocated the most amount of money along with that budget’s corresponding filmTitle. 
+
+
+This query is relevant to management because it will allow management to see which particular budget required the most amount of money spent. They then can use that information to determine if there was any correlation to that budget’s impact on the film. 
+
 ## Features Covered In Queries
