@@ -7,8 +7,8 @@ Team Members:
 
 * [@CarsonHall](https://github.com/carsonehall15/21479_2)
 * [@Jacob Hoover]()
-* [@Ryan Restino]()
-* [@Mason Sprinkle]()
+* [@Ryan Restino](https://github.com/rrestino/Ryan-Restino-MIST-4610-Group-Project-1)
+* [@Mason Sprinkle](https://github.com/masonSprinkle/21479_2_Mason-/blob/main/README.md)
 * [@Owen Swonger](https://github.com/ocs08576/21479_2)
 
 
@@ -105,13 +105,13 @@ This query is relevant to management because it allows them to see whether or no
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q3.png)
 
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q3%20Results.png)
-## Query #4: Write a query to list the budget of films that won 3 or more awards.
+## Query #4: Write a query to list the budget of films that have won 2 or more awards.
 
 This query is relevant to management, because it would be beneficial to see if there is a correlation between the amount of money spent on producing a film and the amount of awards those films win. 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q4.png)
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q4%20Results.png)
 ## Query #5: Write a query to show the amount of different films that a studio is producing (group by studio name). 
 
 This query is relevant because it allows the user to see the exact number of films that a studio may be producing at a given time.
@@ -127,14 +127,16 @@ This query is relevant to management because it would be beneficial to know whic
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6.png)
 
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6%20Results.png)
-## Query #7:  Write a query that lists out filmName and total expenses for films whose total expenses are greater than the average total expenses for films from the same studio.
-
-This would help management to look at what films have greater than average expenses relative to films that are being made in the same country since expenses around the world can vary. 
+## Query #7:   Write a query that lists out filmName and totalRevenue for films whose total totalRevenue are less than or equal to the average total revenue for films from the same genre.
 
 
-![App Screenshot]()
+This would help management to look at what films have greater than average expenses relative to films that are being made in the same country since expenses around the world can vary.
 
-![App Screenshot] ()
+
+
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q7.png)
+
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q7%20Results.png)
 ## Query #8:Write a query to see which films do not have contract deals.
 
 
@@ -164,3 +166,5 @@ This query is relevant to management because it will allow management to see whi
 
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q10%20Results.png)
 ## Features Covered In Queries
+
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/Query%20Matrix.png)
