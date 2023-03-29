@@ -3,12 +3,13 @@
 
 Team Name: 21479_2
 
-    Team Members:
-    1. Carson Hall 
-    2. Jacob Hoover
-    3. Ryan Restino
-    4. Mason Sprinkle
-    5. Owen Swonger
+Team Members:
+
+* [@CarsonHall](https://github.com/carsonehall15/21479_2)
+* [@Jacob Hoover]()
+* [@Ryan Restino]()
+* [@Mason Sprinkle]()
+* [@Owen Swonger](https://github.com/ocs08576/21479_2)
 
 
 
@@ -80,9 +81,10 @@ As stated earlier in our business description, the specific aspect of the film i
 
 This query is relevant to management because it allows them to see how much financial resources the production department is using. Tracking expenses is a key part of business to allow the company to see where they can cut costs.
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q1.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q1%20Results.png)
+
 
 
 
@@ -91,39 +93,40 @@ This query is relevant to management because it allows them to see how much fina
 This query is relevant to management because it allows them to see the total amount of expenses incurred by each Film for films that have larger expenses.
 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q2.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q2%20Results.png)
+
 ## Query #3: Write a query to see how over budget a film was based on if total expenses are greater than the budget.
 
 This query is relevant to management because it allows them to see whether or not the film is staying on the right track financially or if it was over budget. 
 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q3.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q3%20Results.png)
 ## Query #4: Write a query to list the budget of films that won 3 or more awards.
 
 This query is relevant to management, because it would be beneficial to see if there is a correlation between the amount of money spent on producing a film and the amount of awards those films win. 
 
 ![App Screenshot]()
 
-![App Screenshot] ()
+![App Screenshot]()
 ## Query #5: Write a query to show the amount of different films that a studio is producing (group by studio name). 
 
 This query is relevant because it allows the user to see the exact number of films that a studio may be producing at a given time.
 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q5.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q5%20Results.png)
 ## Query #6: Write a query to list the average revenue of each genre produced by our studio.
 
 This query is relevant to management because it would be beneficial to know which genres of film are on average the most successful financially and which genre’s may struggle more financially on average. 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q6%20Results.png)
 ## Query #7:  Write a query that lists out filmName and total expenses for films whose total expenses are greater than the average total expenses for films from the same studio.
 
 This would help management to look at what films have greater than average expenses relative to films that are being made in the same country since expenses around the world can vary. 
@@ -139,25 +142,25 @@ This query is relevant to management, because it will allow them to keep their c
 
   
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q8.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q8%20Results.png)
 ## Query #9: Write a query to see the average distribution percentage of each Cinema company.
 
 
 This query will allow management to see which Cinema companies they typically get the best deals with and use that information to negotiate going forward. 
 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q9.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q9%20Results.png)
 ## Query #10: Write a query to list which specific budget was allocated the most amount of money along with that budget’s corresponding filmTitle. 
 
 
 This query is relevant to management because it will allow management to see which particular budget required the most amount of money spent. They then can use that information to determine if there was any correlation to that budget’s impact on the film. 
 
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q10.png)
 
-![App Screenshot] ()
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479_2/main/TP_Q10%20Results.png)
 ## Features Covered In Queries
