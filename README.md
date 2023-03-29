@@ -6,7 +6,7 @@ Team Name: 21479_2
 Team Members:
 
 * [@CarsonHall](https://github.com/carsonehall15/21479_2)
-* [@Jacob Hoover]()
+* [@Jacob Hoover](http://GitHub.com/Jakehoov1/SQLGroupProject)
 * [@Ryan Restino](https://github.com/rrestino/Ryan-Restino-MIST-4610-Group-Project-1)
 * [@Mason Sprinkle](https://github.com/masonSprinkle/21479_2_Mason-/blob/main/README.md)
 * [@Owen Swonger](https://github.com/ocs08576/21479_2)
